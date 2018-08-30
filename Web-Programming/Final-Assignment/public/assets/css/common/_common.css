@@ -1,0 +1,28 @@
+html, body {
+  position: relative;
+  height: 100%;
+  display: block;
+  font-family: 'Open Sans', sans-serif; }
+
+.navbar-default {
+  margin-bottom: 0;
+  background-color: white;
+  height: auto; }
+  .navbar-default .navbar-right {
+    margin-top: 15px; }
+  .navbar-default .navbar-brand {
+    height: auto; }
+    .navbar-default .navbar-brand img {
+      width: 50px;
+      height: 50px;
+      display: inline; }
+    .navbar-default .navbar-brand span {
+      font-family: 'Lato', sans-serif;
+      margin-left: 15px;
+      font-weight: 700; }
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #555;
+  background-color: transparent; }
+
+/*# sourceMappingURL=_common.css.map */

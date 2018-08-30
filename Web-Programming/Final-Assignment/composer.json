@@ -1,0 +1,19 @@
+{
+	"name": "Trabalho Final Programação Web",
+    "description": "Aplicação web para contratação de serviços gerais",
+    "authors": [
+        {
+            "name": "Amanda Baptista de Oliveira",
+            "email": "seu-email@seu-dominio.com"
+        },
+        {
+            "name": "Wolgan Ens Quepfert",
+            "email": "ens.wolgan@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+         "App\\": "App/"
+      }
+   }
+}

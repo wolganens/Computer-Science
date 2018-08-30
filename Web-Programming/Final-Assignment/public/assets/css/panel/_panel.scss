@@ -1,0 +1,47 @@
+body {
+	background-color: #ebeff2;
+}
+.navbar-default, #content {	
+	margin-left: 80px;
+	@media (min-width: 768px) {
+		& {
+	  		margin-left: 250px;
+		}
+	}
+}
+#content {
+	padding: 20px;
+	margin-top: 50px;
+}
+.page-header {
+	margin: 15px 10px;
+}
+.pro-card
+{
+	border-radius: 8px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	background-color: white;
+	.header{
+		padding: 20px;
+		background-color: $brand-primary;
+		img {
+			max-width: 80px;
+			height: auto;
+			display: block;
+			margin: 0 auto;
+		}
+		p {
+			color: white;
+			text-align: center;
+		}
+	}
+	.body {
+		padding: 20px;
+		text-align: center;
+	}
+}
+body.modal-open {
+	#map {
+		min-height: 500px;
+	}
+}

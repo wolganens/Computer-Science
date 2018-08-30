@@ -1,0 +1,1263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ser",
+				"Service"
+			],
+			[
+				"serv",
+				"service_repository"
+			],
+			[
+				"feature",
+				"feature-name"
+			],
+			[
+				"prop",
+				"prop\t.prop() - single"
+			],
+			[
+				"key",
+				"keyup\t.keyup()"
+			],
+			[
+				"tabl",
+				"table-bordered \tBootstrap 3 Class"
+			],
+			[
+				"sms_",
+				"sms_orders"
+			],
+			[
+				"sms",
+				"sms_plan"
+			],
+			[
+				"registe",
+				"register_height"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"rgnume",
+				"rg_number"
+			],
+			[
+				"userre",
+				"user_repository"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"usua",
+				"usuario"
+			],
+			[
+				"usuar",
+				"usuario"
+			],
+			[
+				"g",
+				"GLOBALS"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"att",
+				"attachment"
+			],
+			[
+				"conf",
+				"config_doctor_finance"
+			],
+			[
+				"appo",
+				"appointment"
+			],
+			[
+				"appoi",
+				"appointment_id"
+			],
+			[
+				"app",
+				"appointment"
+			],
+			[
+				"event",
+				"event_finish"
+			],
+			[
+				"current",
+				"current_doctor"
+			],
+			[
+				"eventre",
+				"event_repository"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"atte",
+				"attest_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"last_filter": "modal",
+		"selected_items":
+		[
+			[
+				"modal",
+				"Snippet: bs3-modal"
+			],
+			[
+				"getter for",
+				"Generate Getter for ..."
+			],
+			[
+				"SESSION",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"Sessio",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"Sesssion",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"post",
+				"Snippet: POST['…']"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"sess[",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"Sess[",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"session[",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel-primary"
+			],
+			[
+				"SESSIOn[",
+				"Snippet: SESSION['…']"
+			],
+			[
+				"ready",
+				"Snippet: $(document).ready"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"COMMIT",
+				"Git: Commit"
+			],
+			[
+				"construc",
+				"Snippet: function __construct"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"PUSH",
+				"Git: Push"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"timeout",
+				"Snippet: setTimeout function"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"Snippet: $(document).ready"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sttus",
+				"Snippet: Auth-getUser"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"amme",
+				"Git: Amend Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"globals",
+				"Snippet: $GLOBALS['…']"
+			],
+			[
+				"sessi",
+				"Snippet: Session-put"
+			],
+			[
+				"sessionstart",
+				"Snippet: Session-start"
+			],
+			[
+				"constru",
+				"Snippet: function __construct"
+			],
+			[
+				"setter",
+				"Generate Setter for ..."
+			],
+			[
+				"delee",
+				"File: Delete"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pusj",
+				"Snippet: Input-isJson"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wolgan/progweb",
+		"/home/wolgan/progweb/App"
+	],
+	"file_history":
+	[
+		"/home/wolgan/progweb/App/Views/client/services.php",
+		"/home/wolgan/progweb/App/Views/professional/services.php",
+		"/home/wolgan/progweb/App/Views/layouts/panel/footer.php",
+		"/home/wolgan/progweb/App/Controllers/ServiceController.php",
+		"/home/wolgan/progweb/App/Models/Service/ServiceRepository.php",
+		"/home/wolgan/progweb/App/Models/Service/Service.php",
+		"/home/wolgan/progweb/App/Models/Service/ServiceDao.php",
+		"/home/wolgan/progweb/public/assets/css/panel/_panel.scss",
+		"/home/wolgan/progweb/App/Views/client/select_service_professional.php",
+		"/home/wolgan/progweb/public/assets/css/panel/_aside.scss",
+		"/home/wolgan/progweb/public/assets/css/common/_common.scss",
+		"/home/wolgan/progweb/App/Models/User/UserDao.php",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/10/Programação para Web/validator/Controllers/ValidatorController.php",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/10/Programação para Web/validator/Controllers/PagesController.php",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/10/Programação para Web/validator/Models/User.php",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/10/Programação para Web/Trabalho final/criabanco.sql",
+		"/home/wolgan/progweb/App/Controllers/UserController.php",
+		"/home/wolgan/progweb/App/Views/layouts/panel/header.php",
+		"/home/wolgan/progweb/App/Views/Helpers/FormHelper.php",
+		"/home/wolgan/progweb/App/Views/signup.php",
+		"/home/wolgan/progweb/App/Models/User/User.php",
+		"/home/wolgan/progweb/App/Models/Client/ClientRepository.php",
+		"/home/wolgan/progweb/App/Models/Professional/ProfessionalRepository.php",
+		"/home/wolgan/progweb/App/Controllers/ProfessionalController.php",
+		"/home/wolgan/progweb/App/Models/Professional/Professional.php",
+		"/home/wolgan/progweb/App/Views/signin.php",
+		"/home/wolgan/progweb/App/Models/Http/Redirect.php",
+		"/home/wolgan/progweb/App/Controllers/PagesController.php",
+		"/home/wolgan/progweb/App/Views/Helpers/View.php",
+		"/home/wolgan/progweb/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_pagination.scss",
+		"/home/wolgan/progweb/public/assets/js/landing.js",
+		"/home/wolgan/progweb/App/Controllers/RequestController.php",
+		"/home/wolgan/progweb/App/Models/User/UserRepository.php",
+		"/home/wolgan/progweb/App/Views/client/profile.php",
+		"/home/wolgan/progweb/App/Views/professional/profile.php",
+		"/home/wolgan/progweb/App/Views/layouts/signup/footer.php",
+		"/home/wolgan/progweb/App/Models/Http/Input.php",
+		"/home/wolgan/progweb/App/Models/Db.php",
+		"/home/wolgan/progweb/App/Views/home.php",
+		"/home/wolgan/progweb/App/Views/layouts/guest/footer.php",
+		"/home/wolgan/progweb/public/assets/css/landing.scss",
+		"/home/wolgan/progweb/App/Views/professional/dashboard.php",
+		"/home/wolgan/progweb/App/Models/Address/Address.php",
+		"/home/wolgan/progweb/public/assets/css/panel/aside.scss",
+		"/home/wolgan/progweb/App/Controllers/ClientController.php",
+		"/home/wolgan/progweb/App/Views/layouts/guest/header.php",
+		"/home/wolgan/progweb/public/assets/css/signup.scss",
+		"/home/wolgan/progweb/App/Views/layouts/signup/header.php",
+		"/home/wolgan/progweb/App/Views/layouts/client/footer.php",
+		"/home/wolgan/progweb/App/Views/layouts/client/menu.php",
+		"/home/wolgan/progweb/App/Views/client/addresses.php",
+		"/home/wolgan/progweb/App/Models/Address/AddressRepository.php",
+		"/home/wolgan/progweb/App/Views/layouts/professional/menu.php",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/10/Programação para Web/Trabalho final/categories.sql",
+		"/home/wolgan/progweb/public/assets/css/panel.scss",
+		"/home/wolgan/easymed/app/modules/Patient/Models/Patient.php",
+		"/home/wolgan/easymed/app/modules/Doctor/routes.php",
+		"/home/wolgan/easymed/app/modules/Finance/routes.php",
+		"/home/wolgan/easymed/_ide_helper.php",
+		"/home/wolgan/easymed/app/modules/Office/routes.php",
+		"/home/wolgan/easymed/app/filters.php",
+		"/etc/apache2/sites-available/sgalegrete.conf",
+		"/home/wolgan/progweb/index.html",
+		"/home/wolgan/easymed/app/modules/User/Models/User.php",
+		"/home/wolgan/easymed/app/modules/Office/Models/Office.php",
+		"/home/wolgan/easymed/app/modules/Office/filters.php",
+		"/home/wolgan/easymed/app/modules/Doctor/filters.php",
+		"/home/wolgan/easymed/app/views/layouts/support/header.blade.php",
+		"/home/wolgan/easymed/app/views/layouts/blog/header.blade.php",
+		"/home/wolgan/easymed/app/views/layouts/authentication/header.blade.php",
+		"/home/wolgan/easymed/app/modules/Guest/Views/Layouts/landing/header.blade.php",
+		"/home/wolgan/easymed/app/modules/Guest/Views/features/major.blade.php",
+		"/home/wolgan/easymed/app/modules/Guest/Views/landing/index.blade.php",
+		"/home/wolgan/easymed/app/lang/br/feature.php",
+		"/home/wolgan/easymed/resources/assets/guest/sass/modules/landing/landing.scss",
+		"/home/wolgan/easymed/resources/assets/guest/sass/modules/landing/_features.scss",
+		"/home/wolgan/easymed/app/database/migrations/2016_12_07_085439_link_feature.php",
+		"/home/wolgan/easymed/app/modules/Control/Models/Feature.php",
+		"/home/wolgan/easymed/app/modules/Control/Views/control/features/create.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/appointment/attest_add.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/appointment/medical_record/section/create_modal.blade.php",
+		"/home/wolgan/easymed/app/modules/Control/Controllers/FeaturesController.php",
+		"/home/wolgan/easymed/resources/assets/guest/sass/modules/landing/_header.scss",
+		"/home/wolgan/easymed/resources/assets/guest/sass/extends/_bootstrap.scss",
+		"/home/wolgan/easymed/resources/assets/guest/sass/modules/landing/_sections.scss",
+		"/home/wolgan/easymed/public/assets/images/features/uploads/receita.svg",
+		"/home/wolgan/easymed/resources/assets/guest/sass/modules/check/_check.scss",
+		"/home/wolgan/easymed/app/modules/Guest/Views/signup/landing_form.blade.php",
+		"/home/wolgan/easymed/node_modules/grunt-contrib-uglify/node_modules/lodash/findIndex.js",
+		"/home/wolgan/easymed/app/modules/Guest/Views/Layouts/landing/index.blade.php",
+		"/home/wolgan/easymed/Gruntfile.js",
+		"/home/wolgan/easymed/resources/assets/guest/sass/style.scss",
+		"/home/wolgan/easymed/resources/assets/guest/sass/extends/_extends.scss",
+		"/home/wolgan/easymed/app/modules/Office/Controllers/EletronicMedicalRecordController.php",
+		"/home/wolgan/easymed/app/modules/Office/Views/patient/emr/resume/index.blade.php",
+		"/home/wolgan/easymed/app/modules/Office/Views/patient/emr/resume/report.blade.php",
+		"/home/wolgan/easymed/app/modules/Office/Views/patient/emr/resume/print/index.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/appointment/procedures/forms.blade.php",
+		"/home/wolgan/easymed/app/modules/Office/Controllers/ProceduresController.php",
+		"/home/wolgan/easymed/app/modules/User/Views/super_admin/steps/payment_data.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/appointment/index.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/attests/create.blade.php",
+		"/home/wolgan/easymed/app/lang/br/attest.php",
+		"/home/wolgan/easymed/app/lang/br/easymed.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/appointment/procedures/create.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Controllers/SettingsController.php",
+		"/home/wolgan/easymed/app/modules/Office/Views/office/menu/index.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Controllers/AttestsController.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/steps/professional_data.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Controllers/ConfigDoctorAttestController.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/appointment/attest.blade.php",
+		"/home/wolgan/easymed/resources/assets/auth/js/src/easymed.js",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/finance/cost_centers_add.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/occupation_code/components/form.blade.php",
+		"/home/wolgan/easymed/app/views/new_guest/register/welcome.blade.php",
+		"/home/wolgan/easymed/app/modules/Patient/Views/patient/register.blade.php",
+		"/home/wolgan/easymed/app/modules/Control/Views/control/sign_in.blade.php",
+		"/home/wolgan/easymed/app/views/layouts/modals/ajax_modal.blade.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Repositories/ConfigDoctorAttestRepository.php",
+		"/home/wolgan/easymed/app/modules/Office/Repositories/ProcedureRepository.php",
+		"/home/wolgan/easymed/app/modules/Doctor/Views/doctor/settings/appointment/procedures/index.blade.php",
+		"/home/wolgan/easymed/app/modules/Office/Models/Procedure.php",
+		"/home/wolgan/easymed/app/modules/SMS/Models/SmsBuyTransaction.php",
+		"/home/wolgan/easymed/app/modules/Subscription/Controllers/BuySMSCheckoutController.php",
+		"/home/wolgan/easymed/app/modules/SMS/Controllers/SmsController.php",
+		"/home/wolgan/easymed/app/modules/Subscription/Models/MoipStatus.php",
+		"/home/wolgan/easymed/app/modules/SMS/Views/sms/dashboard.blade.php",
+		"/home/wolgan/easymed/app/modules/SMS/Views/sms/orders.blade.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/wolgan/progweb/App",
+			"/home/wolgan/progweb",
+			"/home/wolgan/easymed",
+			"/home/wolgan/easymed/app/,*.php",
+			"/home/wolgan/easymed/app/",
+			"/home/wolgan/easymed/app/modules",
+			"*.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^.*\\S+.*$",
+			"768px",
+			"min",
+			"hash",
+			"'phone",
+			"bootstrapcdn",
+			"create",
+			"->type",
+			"img",
+			"finance.resume",
+			"finance",
+			"planFilter",
+			"$request",
+			"'pattern' =>",
+			"featu",
+			"guest/",
+			"'pattern' =>",
+			"pattern=\"",
+			"postAccountVerification",
+			"'pattern' =>",
+			"settings.appointment.attest.edit",
+			"rules",
+			"Novo atestado",
+			"section",
+			"new",
+			"settings.appointment.attest",
+			"proced",
+			"settings.procedures.index",
+			".js",
+			"data-toggle=\"popove",
+			"status",
+			"moip.checkout.process",
+			"sms_bala",
+			"plans.premium.index",
+			"smsBalance",
+			"tient.retr",
+			"subscript",
+			"aside_link",
+			"subscription.",
+			"post",
+			"a8e063",
+			"#56ab2f",
+			"click",
+			"ources/assets/auth/modules/subscripti",
+			"main",
+			"top: 32px",
+			"print_data",
+			"32px",
+			"function openGroup",
+			":before",
+			"32px",
+			":before",
+			"user-cpf",
+			"valid",
+			"updateInputErrors",
+			"removeErrorPopOver",
+			"user-cpf",
+			"console.lo",
+			"console.log(",
+			"{\n",
+			"console.log(",
+			"uniqueCpf",
+			"console",
+			"errorPopOver",
+			"cpf",
+			"findOr",
+			"postTransferTransactions",
+			"-category-d",
+			"financeC",
+			"findOr",
+			" de custos criado",
+			"extends \\Gues",
+			"extends Gues",
+			" remover esse centro de cust",
+			"format",
+			"settings.finance.gener",
+			"        \n",
+			"();\n",
+			"();",
+			"truncate",
+			"subscription_plan_features",
+			"table",
+			"DB",
+			"table",
+			"feature_subscription_plan",
+			"();\n",
+			"feature_subscription_plan",
+			"        \n",
+			"();\n",
+			"        \n",
+			"];\n",
+			"();\n",
+			"feature_subscription_plan",
+			"vault",
+			"font-size: 21px",
+			"font-size: 21px;",
+			"termos",
+			".jumbo",
+			"subscription_license_repository->cre",
+			"subscription_license_repository",
+			"SubscriptionLicenseRepositoryInterface",
+			"subscript",
+			"subscription_plan_repository",
+			"plan-id",
+			"create",
+			"plan-id",
+			"$",
+			"office.cre",
+			"office",
+			"office.c",
+			"hasWorkOffice",
+			"office",
+			"missing",
+			"commit",
+			"test-",
+			"setEMa",
+			"errors",
+			"error",
+			"attac",
+			"/home/wolgan/easymed/public",
+			"categoryModel",
+			"->category",
+			"FINANCECONTRO",
+			"LAST_RE",
+			"category",
+			"financeCategory",
+			"LAST_REPORT",
+			"Session:::put('LAST_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"text-",
+			"/var/repo/easymed.git/public",
+			"$this->doctor",
+			"echo \"\\n############################",
+			"",
+			"###############################"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-pull":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"profesioser",
+				"App/Views/professional/services.php"
+			],
+			[
+				"panelfooter",
+				"App/Views/layouts/panel/footer.php"
+			],
+			[
+				"panelpane.scs",
+				"public/assets/css/panel/_panel.scss"
+			],
+			[
+				"common.scs",
+				"public/assets/css/common/_common.scss"
+			],
+			[
+				"aside.scss",
+				"public/assets/css/panel/_aside.scss"
+			],
+			[
+				"servicedao",
+				"App/Models/Service/ServiceDao.php"
+			],
+			[
+				"panelpanel.scs",
+				"public/assets/css/panel/_panel.scss"
+			],
+			[
+				"ervicerepositor",
+				"App/Models/Service/ServiceRepository.php"
+			],
+			[
+				"selectser",
+				"App/Views/client/select_service_professional.php"
+			],
+			[
+				"modelser",
+				"App/Models/Service/Service.php"
+			],
+			[
+				"serdao",
+				"App/Models/User/UserDao.php"
+			],
+			[
+				"servirepoi",
+				"App/Models/Service/ServiceRepository.php"
+			],
+			[
+				"servicontr",
+				"App/Controllers/ServiceController.php"
+			],
+			[
+				"serco",
+				"App/Controllers/UserController.php"
+			],
+			[
+				"clientserve",
+				"App/Views/client/services.php"
+			],
+			[
+				"formhe",
+				"App/Views/Helpers/FormHelper.php"
+			],
+			[
+				"servicecontr",
+				"App/Controllers/ServiceController.php"
+			],
+			[
+				"panelheader",
+				"App/Views/layouts/panel/header.php"
+			],
+			[
+				"sigup",
+				"App/Views/signup.php"
+			],
+			[
+				"clientservices",
+				"App/Views/client/services.php"
+			],
+			[
+				"modelservi",
+				"App/Models/Service/Service.php"
+			],
+			[
+				"usercontr",
+				"App/Controllers/UserController.php"
+			],
+			[
+				"profecon",
+				"App/Controllers/ProfessionalController.php"
+			],
+			[
+				"modelprofs",
+				"App/Models/Professional/Professional.php"
+			],
+			[
+				"profrepo",
+				"App/Models/Professional/ProfessionalRepository.php"
+			],
+			[
+				"modeluse",
+				"App/Models/User/User.php"
+			],
+			[
+				"clienrep",
+				"App/Models/Client/ClientRepository.php"
+			],
+			[
+				"usercon",
+				"App/Controllers/UserController.php"
+			],
+			[
+				"redirec",
+				"App/Models/Http/Redirect.php"
+			],
+			[
+				"pagescontr",
+				"App/Controllers/PagesController.php"
+			],
+			[
+				"viewsigin",
+				"App/Views/signin.php"
+			],
+			[
+				"siginin",
+				"bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_pagination.scss"
+			],
+			[
+				"modelrec",
+				"App/Models/Http/Redirect.php"
+			],
+			[
+				"modeluser",
+				"App/Models/User/User.php"
+			],
+			[
+				"procontr",
+				"App/Controllers/ProfessionalController.php"
+			],
+			[
+				"formhel",
+				"App/Views/Helpers/FormHelper.php"
+			],
+			[
+				"proprofile",
+				"App/Views/professional/profile.php"
+			],
+			[
+				"clientprofi",
+				"App/Views/client/profile.php"
+			],
+			[
+				"userrepository.ph",
+				"App/Models/User/UserRepository.php"
+			],
+			[
+				"userrepo",
+				"App/Models/User/UserRepository.php"
+			],
+			[
+				"signupfoo",
+				"App/Views/layouts/signup/footer.php"
+			],
+			[
+				"landijs",
+				"public/assets/js/landing.js"
+			],
+			[
+				"request",
+				"App/Controllers/RequestController.php"
+			],
+			[
+				"input",
+				"App/Models/Http/Input.php"
+			],
+			[
+				"userco",
+				"App/Controllers/UserController.php"
+			],
+			[
+				"view",
+				"App/Views/Helpers/View.php"
+			],
+			[
+				"singup",
+				"App/Views/signup.php"
+			],
+			[
+				"signin",
+				"App/Views/signin.php"
+			],
+			[
+				"clientrep",
+				"App/Models/Client/ClientRepository.php"
+			],
+			[
+				"langeasye",
+				"app/lang/br/easymed.php"
+			],
+			[
+				"dical_record/section/field/create_modal.blade.p",
+				"app/modules/Doctor/Views/doctor/settings/appointment/medical_record/section/field/create_modal.blade.php"
+			],
+			[
+				"s/doctor/settings/appointment/medical_record/update.blade.php",
+				"app/modules/Doctor/Views/doctor/settings/appointment/medical_record/update.blade.php"
+			],
+			[
+				"modelpati",
+				"app/modules/Patient/Models/Patient.php"
+			],
+			[
+				"appfilter",
+				"app/filters.php"
+			],
+			[
+				"signup.p",
+				"App/Views/signup.php"
+			],
+			[
+				"home.php",
+				"App/Views/home.php"
+			],
+			[
+				"usercontro",
+				"App/Controllers/UserController.php"
+			],
+			[
+				"pagecontr",
+				"App/Controllers/PagesController.php"
+			],
+			[
+				"guestfooter",
+				"App/Views/layouts/guest/footer.php"
+			],
+			[
+				"landing.scss",
+				"public/assets/css/landing.scss"
+			],
+			[
+				"landing.js",
+				"public/assets/js/landing.js"
+			],
+			[
+				"profescontr",
+				"App/Controllers/ProfessionalController.php"
+			],
+			[
+				"profeservices",
+				"App/Views/professional/services.php"
+			],
+			[
+				"modeladdres",
+				"App/Models/Address/Address.php"
+			],
+			[
+				"profeservi",
+				"App/Views/professional/services.php"
+			],
+			[
+				"modelservice",
+				"App/Models/Service/Service.php"
+			],
+			[
+				"panelpanel.scss",
+				"public/assets/css/panel/_panel.scss"
+			],
+			[
+				"prodashb",
+				"App/Views/professional/dashboard.php"
+			],
+			[
+				"servicerep",
+				"App/Models/Service/ServiceRepository.php"
+			],
+			[
+				"profescon",
+				"App/Controllers/ProfessionalController.php"
+			],
+			[
+				"common.scss",
+				"public/assets/css/common/_common.scss"
+			],
+			[
+				"panelaside.scss",
+				"public/assets/css/panel/aside.scss"
+			],
+			[
+				"_aside.scss",
+				"public/assets/css/panel/_aside.scss"
+			],
+			[
+				"clientcontr",
+				"App/Controllers/ClientController.php"
+			],
+			[
+				"profedash",
+				"App/Views/professional/dashboard.php"
+			],
+			[
+				"guestheader",
+				"App/Views/layouts/guest/header.php"
+			],
+			[
+				"singup.scss",
+				"public/assets/css/signup.scss"
+			],
+			[
+				"signuphea",
+				"App/Views/layouts/signup/header.php"
+			],
+			[
+				"helper",
+				"App/Views/Helpers/FormHelper.php"
+			],
+			[
+				"singup.php",
+				"App/Views/signup.php"
+			],
+			[
+				"singupfoote",
+				"App/Views/layouts/signup/footer.php"
+			],
+			[
+				"layoutsfooter",
+				"App/Views/layouts/signup/footer.php"
+			],
+			[
+				"clientadress",
+				"App/Views/client/addresses.php"
+			],
+			[
+				"selecpro",
+				"App/Views/client/select_service_professional.php"
+			],
+			[
+				"clientmenu",
+				"App/Views/layouts/client/menu.php"
+			],
+			[
+				"promenu",
+				"App/Views/layouts/professional/menu.php"
+			],
+			[
+				"addresrepo",
+				"App/Models/Address/AddressRepository.php"
+			],
+			[
+				"addresses",
+				"App/Views/client/addresses.php"
+			],
+			[
+				"profesrepo",
+				"App/Models/Professional/ProfessionalRepository.php"
+			],
+			[
+				"sercicdao",
+				"App/Models/Service/ServiceDao.php"
+			],
+			[
+				"erepository",
+				"App/Models/Service/ServiceRepository.php"
+			],
+			[
+				"addresrep",
+				"App/Models/Address/AddressRepository.php"
+			],
+			[
+				"clientrepo",
+				"App/Models/Client/ClientRepository.php"
+			],
+			[
+				"doctorroutes",
+				"app/modules/Doctor/routes.php"
+			],
+			[
+				"financeroutes",
+				"app/modules/Finance/routes.php"
+			],
+			[
+				"modeloffice",
+				"app/modules/Office/Models/Office.php"
+			],
+			[
+				"officefilters",
+				"app/modules/Office/filters.php"
+			],
+			[
+				"doctorfilters",
+				"app/modules/Doctor/filters.php"
+			],
+			[
+				"filters",
+				"app/filters.php"
+			],
+			[
+				"modelpat",
+				"app/modules/Patient/Models/Patient.php"
+			],
+			[
+				"appfilters",
+				"app/filters.php"
+			],
+			[
+				"layoutsheader",
+				"app/views/layouts/support/header.blade.php"
+			],
+			[
+				"landingheader",
+				"app/modules/Guest/Views/Layouts/landing/header.blade.php"
+			],
+			[
+				"appointment/medical_record/section/create_modal.blade",
+				"app/modules/Doctor/Views/doctor/settings/appointment/medical_record/section/create_modal.blade.php"
+			],
+			[
+				"sassfeatures.scs",
+				"resources/assets/guest/sass/modules/landing/_features.scss"
+			],
+			[
+				"featurescontr",
+				"app/modules/Control/Controllers/FeaturesController.php"
+			],
+			[
+				"langfeatu",
+				"app/lang/br/feature.php"
+			],
+			[
+				"l/views/control/features/create.blad",
+				"app/modules/Control/Views/control/features/create.blade.php"
+			],
+			[
+				"featuresmajo",
+				"app/modules/Guest/Views/features/major.blade.php"
+			],
+			[
+				"landingindex",
+				"app/modules/Guest/Views/landing/index.blade.php"
+			],
+			[
+				"modelfeat",
+				"app/modules/Control/Models/Feature.php"
+			],
+			[
+				"link_fea",
+				"app/database/migrations/2016_12_07_085439_link_feature.php"
+			],
+			[
+				"featurmajor",
+				"app/modules/Guest/Views/features/major.blade.php"
+			],
+			[
+				"siglandof",
+				"app/modules/Guest/Views/signup/landing_form.blade.php"
+			],
+			[
+				"landindex",
+				"node_modules/grunt-contrib-uglify/node_modules/lodash/findIndex.js"
+			],
+			[
+				"landheader",
+				"app/modules/Guest/Views/Layouts/landing/header.blade.php"
+			],
+			[
+				"header.scs",
+				"resources/assets/guest/sass/modules/landing/_header.scss"
+			],
+			[
+				"check.scss",
+				"resources/assets/guest/sass/modules/check/_check.scss"
+			],
+			[
+				"modelfeature",
+				"app/modules/Control/Models/Feature.php"
+			],
+			[
+				"featuresmajor",
+				"app/modules/Guest/Views/features/major.blade.php"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"lanheader.scs",
+				"resources/assets/guest/sass/modules/landing/_header.scss"
+			],
+			[
+				"attestadd",
+				"app/modules/Doctor/Views/doctor/settings/appointment/attest_add.blade.php"
+			],
+			[
+				"emrprintindex",
+				"app/modules/Office/Views/patient/emr/resume/print/index.blade.php"
+			],
+			[
+				"emrprintinde",
+				"app/modules/Office/Views/patient/emr/resume/print/index.blade.php"
+			],
+			[
+				"/emr/resume/report.blade",
+				"app/modules/Office/Views/patient/emr/resume/report.blade.php"
+			],
+			[
+				"tient/emr/resume/index.blade.ph",
+				"app/modules/Office/Views/patient/emr/resume/index.blade.php"
+			],
+			[
+				"langattest",
+				"app/lang/br/attest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

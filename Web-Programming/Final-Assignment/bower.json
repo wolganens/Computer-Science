@@ -1,0 +1,33 @@
+{
+  "name": "Servicos_Gerais_Alegrete",
+  "authors": [
+    "Amanda Baptista de Oliveira <amandapadme@gmail.com>"
+    "Wolgan Ens Quepfert ens.wolgan@gmail.com"
+  ],
+  "description": "Aplicação web para pedido e oferta de serviços gerais",
+  "main": "index.php",
+  "keywords": [
+    "serviços",
+    "gerais",
+    "alegrete",
+    "eletricista",
+    "reforma",
+    "pintura",
+    "conserto",
+    "construção"
+  ],
+  "license": "MIT",
+  "homepage": "prog.web",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "components-font-awesome": "^4.6.3",
+    "select2": "^4.0.3"
+  }
+}
