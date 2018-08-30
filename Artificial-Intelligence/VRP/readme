@@ -1,0 +1,8 @@
+Para executar basta digitar no terminal
+
+python3 main.py < instancias/vrpnc<instancia>.txt
+
+Favor instalar as dependencias:
+matplotlib
+numpy
+sklearn

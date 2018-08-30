@@ -1,0 +1,1087 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width\tfunc"
+			],
+			[
+				"Robot",
+				"RobotB9"
+			],
+			[
+				"robo",
+				"robot"
+			],
+			[
+				"posin",
+				"posInY"
+			],
+			[
+				"format",
+				"format\tformat"
+			],
+			[
+				"protxtp",
+				"project_txt_path"
+			],
+			[
+				"instan",
+				"isinstance\tisinstance"
+			],
+			[
+				"insta",
+				"isinstance\tisinstance"
+			],
+			[
+				"txtpath",
+				"projects_txt_path"
+			],
+			[
+				"projd",
+				"proj_id"
+			],
+			[
+				"method",
+				"staticmethod\tstaticmethod"
+			],
+			[
+				"kwyos",
+				"keywords"
+			],
+			[
+				"keywds",
+				"keywords"
+			],
+			[
+				"kwo",
+				"keywords"
+			],
+			[
+				"projec",
+				"project_id"
+			],
+			[
+				"projsn",
+				"projects_json"
+			],
+			[
+				"projejs",
+				"projects_json"
+			],
+			[
+				"first",
+				"firstChild\t(): Node TreeWalker"
+			],
+			[
+				"proje",
+				"projects"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"proj",
+				"project_rows"
+			],
+			[
+				"pdff",
+				"pdf_file_name"
+			],
+			[
+				"keyds",
+				"keywords"
+			],
+			[
+				"kwstr",
+				"split_kwrds_str"
+			],
+			[
+				"sepa",
+				"separadores"
+			],
+			[
+				"com",
+				"com_palavras_chave"
+			],
+			[
+				"pala",
+				"palavras_chave"
+			],
+			[
+				"id",
+				"id_projeto"
+			],
+			[
+				"regex",
+				"regex_linha_pal_chave"
+			],
+			[
+				"ver",
+				"projetos_verificados"
+			],
+			[
+				"Palava",
+				"Palavras-chave"
+			],
+			[
+				"peo",
+				"projetos_verificados"
+			],
+			[
+				"veri",
+				"verificados"
+			],
+			[
+				"palavr",
+				"palavras_chave"
+			],
+			[
+				"linha",
+				"regex_linha_pal_chave"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "TestMaze.cpp",
+			"settings":
+			{
+				"buffer_size": 2061,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 955,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "in/maze2.txt",
+			"settings":
+			{
+				"buffer_size": 2567,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 214.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"commt",
+				"Git: Commit"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"cmment",
+				"Toggle Comment"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"with",
+				"Build With: Python"
+			],
+			[
+				"method",
+				"Snippet: Method"
+			],
+			[
+				"clas",
+				"Snippet: New Class"
+			],
+			[
+				"class",
+				"Snippet: New Class"
+			],
+			[
+				"setpy",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"wrP",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"alias python=python3"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/in"
+	],
+	"file_history":
+	[
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/Robby.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/TestMaze.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/in/maze2.txt",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/main.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/GL.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/Maze.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/Robby.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/TestMaze.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/RobotB9.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/RobotB9.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/in/maze1.txt",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/Robot.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/Makefile",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/ArTur.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/ArTur.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/robots-base/TestMaze.cpp",
+		"/home/wolgan/.cache/.fr-CmywTO/robots-base/TestMaze.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/robots-base/RobotB9.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/maze1.txt",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/robots-base/TestMaze.h",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/robots-base/Texture.cpp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/Robby.cp",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4/GL.h",
+		"/home/wolgan/Desktop/LIVROS JEE WILDFLY",
+		"/home/wolgan/Desktop/TCC2/codigo/extrai_palavras.py",
+		"/home/wolgan/Desktop/TCC2/codigo/Profile.py",
+		"/home/wolgan/Desktop/TCC2/codigo/KeyWordProfile.py",
+		"/home/wolgan/Desktop/TCC2/codigo/Project.py",
+		"/home/wolgan/Desktop/TCC2/codigo/ProjectFactory.py",
+		"/home/wolgan/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/wolgan/.config/sublime-text-3/Packages/User/Package Control.user-ca-bundle",
+		"/home/wolgan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/wolgan/.config/sublime-text-3/Packages/User/Package Control.merged-ca-bundle",
+		"/home/wolgan/Desktop/TCC2/codigo/main.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/Profile.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/KeyWordProfile.py",
+		"/home/wolgan/Desktop/TCC2/codigo/projetos.json",
+		"/home/wolgan/Desktop/TCC2/codigo/mostra_dados.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/mostra_dados.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/anotações/atividades.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/extrai_palavras.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/Criação do perfil por palavras-chave PSEUDOCÓDIGO",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/anotações/eventos.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/.gitignore",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/projetos.json",
+		"/home/wolgan/Documents/PROJETOS PDF/Alegrete/pdf2text.sh",
+		"/home/wolgan/Desktop/Alimentação",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/id_por_campus.js",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/TCC2/codigo/projetos_por_campus_array.py",
+		"/home/wolgan/Documents/PROJETOS PDF/Uruguaiana/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Alegrete/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Santana do Livramento/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/São Gabriel/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/São Borja/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Jaguarão/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Itaqui/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Dom Pedrito/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Caçapava do Sul/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Bagé/baixar.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Dom Pedrido/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Caçapava do Sul/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Itaqui/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Bagé/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Uruguaiana/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Santana do Livramento/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/Jaguarão/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/São Borja/pdf2text.sh",
+		"/home/wolgan/Documents/PROJETOS PDF/São Gabriel/pdf2text.sh",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txt/1100.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/7511.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/chave2.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/4271.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1014.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/atividades",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/8815.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1164.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/9222.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/5056.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1409.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/9219.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/471.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/7366.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1192.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1743.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/81.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/976.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/7547.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/4700.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/8844.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txttabula2/8844.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/9418.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/4806.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/7581.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/8211.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1023.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/315.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/5286.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/palavras-chave/7581.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/3263.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/9178.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/7912.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/650.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1361.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/apachetika.sh",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1101.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1100.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1333.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/77.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1296.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1369.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1258.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/8633.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/429.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/4002.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/366.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/3670.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/3756.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/421.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/3468.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/3073.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/2840.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/2607.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/219.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/164.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/1595.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/141.txt",
+		"/home/wolgan/Dropbox/Wolgan-2017-02/projetos/txtapachetika/5.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_t4"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"posIni",
+			"draw(",
+			"RobotB9",
+			"HEAD",
+			"<<<",
+			"<<<<",
+			"dy",
+			";\n",
+			"isEMp",
+			"RobotB9",
+			"\\n{",
+			"RobotB9",
+			"<<HEAD",
+			"<<HEA",
+			"HEAD",
+			"<<<",
+			"RobotB9",
+			"init(",
+			"init"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" {",
+			"{"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "TestMaze.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "in/maze2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 102.0
+	},
+	"output.git-pull":
+	{
+		"height": 102.0
+	},
+	"output.git-push":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "t4.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mai",
+				"main.cpp"
+			],
+			[
+				"tesmazh",
+				"TestMaze.h"
+			],
+			[
+				"testma",
+				"TestMaze.cpp"
+			],
+			[
+				"maze",
+				"Maze.h"
+			],
+			[
+				"tesmaz",
+				"TestMaze.cpp"
+			],
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"mazh",
+				"Maze.h"
+			],
+			[
+				"robyh",
+				"Robby.h"
+			],
+			[
+				"robycp",
+				"Robby.cpp"
+			],
+			[
+				"robo",
+				"Robot.h"
+			],
+			[
+				"mainc",
+				"main.cpp"
+			],
+			[
+				"robby.h",
+				"Robby.h"
+			],
+			[
+				"robot.h",
+				"Robot.h"
+			],
+			[
+				"robot",
+				"Robot.h"
+			],
+			[
+				"maze.h",
+				"Maze.h"
+			],
+			[
+				"tema",
+				"TestMaze.cpp"
+			],
+			[
+				"rob9",
+				"RobotB9.cpp"
+			],
+			[
+				"gl",
+				"GL.cpp"
+			],
+			[
+				"maic",
+				"main.cpp"
+			],
+			[
+				"even",
+				"TCC2/anotações/eventos.txt"
+			],
+			[
+				"event",
+				"TCC2/anotações/eventos.txt"
+			],
+			[
+				"extr",
+				"TCC2/codigo/extrai_palavras.py"
+			],
+			[
+				"json",
+				"TCC2/codigo/projetos.json"
+			],
+			[
+				"prjs",
+				"TCC2/codigo/projetos.json"
+			],
+			[
+				".js",
+				"TCC2/codigo/id_por_campus.js"
+			],
+			[
+				"alegpdf",
+				"PROJETOS PDF/Alegrete/pdf2text.sh"
+			],
+			[
+				"alegrebaix",
+				"PROJETOS PDF/Alegrete/baixar.sh"
+			],
+			[
+				"urubaix",
+				"PROJETOS PDF/Uruguaiana/baixar.sh"
+			],
+			[
+				"baixar.s",
+				"PROJETOS PDF/Santana do Livramento/baixar.sh"
+			],
+			[
+				"baixar.sh",
+				"PROJETOS PDF/São Gabriel/baixar.sh"
+			],
+			[
+				"probaixa",
+				"PROJETOS PDF/Alegrete/baixar.sh"
+			],
+			[
+				"projpdfbai",
+				"PROJETOS PDF/Uruguaiana/baixar.sh"
+			],
+			[
+				"urugba",
+				"PROJETOS PDF/Uruguaiana/baixar.sh"
+			],
+			[
+				"caçapapd",
+				"PROJETOS PDF/Caçapava do Sul/pdf2text.sh"
+			],
+			[
+				"itapdf",
+				"PROJETOS PDF/Itaqui/pdf2text.sh"
+			],
+			[
+				"alep",
+				"PROJETOS PDF/Alegrete/pdf2text.sh"
+			],
+			[
+				"dmpedpdf",
+				"PROJETOS PDF/Dom Pedrido/pdf2text.sh"
+			],
+			[
+				"itapd",
+				"PROJETOS PDF/Itaqui/pdf2text.sh"
+			],
+			[
+				"dompdf",
+				"PROJETOS PDF/Dom Pedrido/pdf2text.sh"
+			],
+			[
+				"jagpdt",
+				"PROJETOS PDF/Jaguarão/pdf2text.sh"
+			],
+			[
+				"santapdf",
+				"PROJETOS PDF/Santana do Livramento/pdf2text.sh"
+			],
+			[
+				"domped2t",
+				"PROJETOS PDF/Dom Pedrido/pdf2text.sh"
+			],
+			[
+				"tika9222.tx",
+				"projetos/txtapachetika/9222.txt"
+			],
+			[
+				"tika5056",
+				"projetos/txtapachetika/5056.txt"
+			],
+			[
+				"tika1164",
+				"projetos/txtapachetika/1164.txt"
+			],
+			[
+				"tika8815",
+				"projetos/txtapachetika/8815.txt"
+			],
+			[
+				"tika1409",
+				"projetos/txtapachetika/1409.txt"
+			],
+			[
+				"tika9219",
+				"projetos/txtapachetika/9219.txt"
+			],
+			[
+				"tika1192",
+				"projetos/txtapachetika/1192.txt"
+			],
+			[
+				"tika7366",
+				"projetos/txtapachetika/7366.txt"
+			],
+			[
+				"tika471",
+				"projetos/txtapachetika/471.txt"
+			],
+			[
+				"tika81",
+				"projetos/txtapachetika/81.txt"
+			],
+			[
+				"tika1743",
+				"projetos/txtapachetika/1743.txt"
+			],
+			[
+				"tik1743",
+				"projetos/txtapachetika/1743.txt"
+			],
+			[
+				"tika976",
+				"projetos/txtapachetika/976.txt"
+			],
+			[
+				"tika4700",
+				"projetos/txtapachetika/4700.txt"
+			],
+			[
+				"tika7547",
+				"projetos/txtapachetika/7547.txt"
+			],
+			[
+				"tika9418txt",
+				"projetos/txtapachetika/9418.txt"
+			],
+			[
+				"8844.txt",
+				"projetos/txttabula2/8844.txt"
+			],
+			[
+				"tika8844",
+				"projetos/txtapachetika/8844.txt"
+			],
+			[
+				"tika4806",
+				"projetos/txtapachetika/4806.txt"
+			],
+			[
+				"tika7581",
+				"projetos/txtapachetika/7581.txt"
+			],
+			[
+				"7581",
+				"projetos/palavras-chave/7581.txt"
+			],
+			[
+				"tika8211",
+				"projetos/txtapachetika/8211.txt"
+			],
+			[
+				"tika1023",
+				"projetos/txtapachetika/1023.txt"
+			],
+			[
+				"tika5286",
+				"projetos/txtapachetika/5286.txt"
+			],
+			[
+				"tika3263",
+				"projetos/txtapachetika/3263.txt"
+			],
+			[
+				"tika9178",
+				"projetos/txtapachetika/9178.txt"
+			],
+			[
+				"tika7912",
+				"projetos/txtapachetika/7912.txt"
+			],
+			[
+				"tika650t",
+				"projetos/txtapachetika/650.txt"
+			],
+			[
+				"tika1361",
+				"projetos/txtapachetika/1361.txt"
+			],
+			[
+				"tik8633",
+				"projetos/txtapachetika/8633.txt"
+			],
+			[
+				"ika6932",
+				"projetos/txtapachetika/6932.txt"
+			],
+			[
+				"tika3592",
+				"projetos/txtapachetika/3592.txt"
+			],
+			[
+				"tika5.tx",
+				"projetos/txtapachetika/5.txt"
+			],
+			[
+				"tika3156",
+				"projetos/txtapachetika/3156.txt"
+			],
+			[
+				"txtpdfto9503",
+				"projetos/txtpdftotext/9503.txt"
+			],
+			[
+				"txttabu4806",
+				"projetos/txttabula2/4806.txt"
+			],
+			[
+				"txtpdftotext4806",
+				"projetos/txtpdftotext/4806.txt"
+			],
+			[
+				"pdftotex6932",
+				"projetos/txtpdftotext/6932.txt"
+			],
+			[
+				"pdfto8052",
+				"projetos/txtpdftotext/8052.txt"
+			],
+			[
+				"pdftote8019",
+				"projetos/txtpdftotext/8019.txt"
+			],
+			[
+				"pdftotex7358",
+				"projetos/txtpdftotext/7358.txt"
+			],
+			[
+				"tabu8357",
+				"projetos/txttabula2/8357.txt"
+			],
+			[
+				"pdfo8357",
+				"projetos/txtpdftotext/8357.txt"
+			],
+			[
+				"down8052.",
+				"projetos/txttabula/downloadProjeto.php?projeto_id=8052.txt"
+			],
+			[
+				"txt8199",
+				"projetos/txt/8199.txt"
+			],
+			[
+				"txt8052",
+				"projetos/txt/8052.txt"
+			],
+			[
+				"tab8052",
+				"projetos/txttabula2/8052.txt"
+			],
+			[
+				"tabu8253",
+				"projetos/txttabula2/8253.txt"
+			],
+			[
+				"txt8623",
+				"projetos/txt/8623.txt"
+			],
+			[
+				"txt1443",
+				"projetos/txt/1443.txt"
+			],
+			[
+				"tab1443",
+				"projetos/txttabula2/1443.txt"
+			],
+			[
+				"tab8052.txt",
+				"projetos/txttabula2/8052.txt"
+			],
+			[
+				"txt2607",
+				"projetos/txt/2607.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Ciência da Computação - UNIPAMPA/edumpampa/edumpampaexpress.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="robots-base" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug-Linux">
+				<Option output="./robots-base" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="glut" />
+					<Add library="GL" />
+					<Add library="GLU" />
+					<Add library="jpeg" />
+					<Add directory="/usr/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release-Linux">
+				<Option output="./robots-base" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="glut" />
+					<Add library="GL" />
+					<Add library="GLU" />
+					<Add library="jpeg" />
+					<Add directory="/usr/lib" />
+				</Linker>
+			</Target>
+			<Target title="Debug-Windows">
+				<Option output="./robots-base" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-Wall" />
+					<Add option="-fexceptions" />
+					<Add option="-DFREEGLUT_STATIC" />
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/include" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="libFreeGLUT.a" />
+					<Add library="glu32" />
+					<Add library="opengl32" />
+					<Add library="winmm" />
+					<Add library="gdi32" />
+					<Add library="libjpeg-8b" />
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+			<Target title="Release-Windows">
+				<Option output="./robots-base" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Wall" />
+					<Add option="-fexceptions" />
+					<Add option="-DFREEGLUT_STATIC" />
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/include" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="libFreeGLUT.a" />
+					<Add library="glu32" />
+					<Add library="opengl32" />
+					<Add library="winmm" />
+					<Add library="gdi32" />
+					<Add library="libjpeg-8b" />
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="GL.cpp" />
+		<Unit filename="GL.h" />
+		<Unit filename="Maze.h" />
+		<Unit filename="Robot.h" />
+		<Unit filename="RobotB9.cpp" />
+		<Unit filename="RobotB9.h" />
+		<Unit filename="TestMaze.cpp" />
+		<Unit filename="TestMaze.h" />
+		<Unit filename="Texture.cpp" />
+		<Unit filename="Texture.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
