@@ -1,0 +1,24 @@
+{
+
+	"1":{	
+			"name": "Rock",
+			"description": "A fist-sized rock, suitable for bludgeoning.",
+			"value": 0,
+			"damage": 5,
+			"type": "weapon"
+	},		
+	"2":{			
+			"name": "Dagger",
+			"description": "A small dagger with some rust. Somewhat more dangerous than a rock.",
+			"value": 5,
+			"damage": 10,
+			"type": "weapon"
+	},		
+	"3":{			
+			"name": "Sword",
+			"description": "A small practice sword",
+			"value": 10,
+			"damage": 20,
+			"type": "weapon"
+	}	
+}

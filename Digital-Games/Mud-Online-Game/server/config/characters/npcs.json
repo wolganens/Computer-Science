@@ -1,0 +1,16 @@
+{
+	"1" : {
+		"name" : "Vendedor desconhecido",
+		"description" : "Um velho vendedor de armas, gorducho e careca exibindo uma espada",
+		"items": [
+			"1", "2", "3"
+		],		
+		"type" : "shop"
+	},
+	"2" : {
+		"name": "Homem doente",
+		"description": "Um homem com o rosto deformado, agonizando no chão da sala",
+		"quest_id": "1",
+		"type": "quest"
+	}
+}

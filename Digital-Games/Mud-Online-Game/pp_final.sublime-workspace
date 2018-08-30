@@ -1,0 +1,953 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"__init__\tmagic"
+			],
+			[
+				"default",
+				"default_room_id"
+			],
+			[
+				"jsonro",
+				"json_room"
+			],
+			[
+				"playerco",
+				"player_command"
+			],
+			[
+				"sublc",
+				"issubclass\tissubclass"
+			],
+			[
+				"respons",
+				"response_buffer"
+			],
+			[
+				"screenhe",
+				"screen_helper"
+			],
+			[
+				"screnhe",
+				"screen_helper"
+			],
+			[
+				"Screhe",
+				"ScreenHelper"
+			],
+			[
+				"method",
+				"staticmethod\tstaticmethod"
+			],
+			[
+				"character",
+				"character_name"
+			],
+			[
+				"play",
+				"players"
+			],
+			[
+				"usepas",
+				"user_password"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"usepa",
+				"user_password"
+			],
+			[
+				"serve",
+				"serve_forever"
+			],
+			[
+				"wlc",
+				"wlcmAsk"
+			],
+			[
+				"se",
+				"serve_forever"
+			],
+			[
+				"fbtn",
+				"fbBtn"
+			],
+			[
+				"paragrafo",
+				"paragrafo_pal_chaves"
+			],
+			[
+				"paragr",
+				"paragrafo"
+			],
+			[
+				"para",
+				"paragrafo"
+			],
+			[
+				"S",
+				"BeautifulSoup"
+			],
+			[
+				"carre",
+				"carrega_lista_projetos"
+			],
+			[
+				"url",
+				"urllib"
+			],
+			[
+				"json",
+				"json_projetos"
+			],
+			[
+				"sty",
+				"stylesheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/World.py",
+			"settings":
+			{
+				"buffer_size": 3531,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/Server.py",
+			"settings":
+			{
+				"buffer_size": 11952,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/NPC.py",
+			"settings":
+			{
+				"buffer_size": 863,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/ScreenHelper.py",
+			"settings":
+			{
+				"buffer_size": 4868,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/Client.py",
+			"settings":
+			{
+				"buffer_size": 1246,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/config/characters/npcs.json",
+			"settings":
+			{
+				"buffer_size": 348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/config/items/items.json",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/Player.py",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 66.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"setpy",
+				"Set Syntax: Python3"
+			],
+			[
+				"sejson",
+				"Set Syntax: JSON"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bs3tem",
+				"Snippet: bs3-template.starter"
+			],
+			[
+				"htmlboiler",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"git config --global user.email \"ens.wolgan@gmail.com\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/client",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/include",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/accounts",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/characters",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/items"
+	],
+	"file_history":
+	[
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Player.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Room.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Server.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Item.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/characters/npcs.json",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/client/ScreenHelper.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/client/Client.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/World.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/rooms/rooms.json",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Monster.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/quests/quests.json",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/NPC.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/rooms/world.json",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/characters/monsters.json",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Weapon.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/items/items.json",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Items/Weapon.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Items/Item.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/characters/Character.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/characters/Player.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/characters/Account.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Account.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/characters/__init__.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/accounts/wolganens.dat",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/Character.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/ScreenHelper.py",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/rooms/world.xml",
+		"/home/wolgan/Dropbox/Ciência da Computação - UNIPAMPA/12/Praticas_em_programacao/pp_final/server/config/items/items.xml",
+		"/var/www/fblogin.com/public_html/helpers.php",
+		"/var/www/fblogin.com/public_html/login.php",
+		"/var/www/fblogin.com/public_html/public/css/style.css",
+		"/var/www/fblogin.com/public_html/fb-callback.php",
+		"/home/wolgan/Dropbox/Projetos/ubuntu sidebar icon effect",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/9305.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/9571.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/8335.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/9427.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/1207.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/975.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/8416.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/567.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/txt/6389.txt",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/8427.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/8422.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/8146.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/7242.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/6353.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/6862.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/1204.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/750.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/6389.html",
+		"/home/wolgan/Documents/TXT_projetos/tika/html/465.html",
+		"/home/wolgan/5288.html",
+		"/home/wolgan/5286.html",
+		"/home/wolgan/Dropbox/Wolgan-2017-01/TCC2/codigo/ProjectFactory.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-01/TCC2/codigo/baixar_projetos.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-01/TCC2/codigo/pdf_txt.py",
+		"/home/wolgan/Dropbox/Wolgan-2017-01/TCC2/codigo/main.py",
+		"/home/wolgan/rui/wp-content/themes/rui/index.php",
+		"/home/wolgan/rui/wp-content/themes/rui/functions.php",
+		"/home/wolgan/rui/wp-includes/functions.wp-scripts.php",
+		"/home/wolgan/rui/wp-content/themes/rui/footer.php",
+		"/home/wolgan/rui/wp-includes/general-template.php",
+		"/home/wolgan/rui/wp-content/themes/rui/header.php",
+		"/home/wolgan/rui/wp-content/themes/rui/js/bundle.js",
+		"/home/wolgan/rui/wp-content/themes/rui/src/index.js",
+		"/home/wolgan/rui/wp-includes/functions.php",
+		"/home/wolgan/rui/wp-includes/plugin.php",
+		"/home/wolgan/rui/wp-blog-header.php",
+		"/home/wolgan/rui/wp-content/themes/rui/webpack.config.js",
+		"/home/wolgan/rui/wp-content/themes/rui/package.json",
+		"/home/wolgan/rui/wp-content/themes/rui/dist/bundle.js",
+		"/home/wolgan/.profile",
+		"/home/wolgan/rui/wp-config.php",
+		"/home/wolgan/vaucherponto/public/blog/index.php",
+		"/home/wolgan/vaucherponto/resources/views/welcome.blade.php",
+		"/home/wolgan/vaucherponto/public/blog/wp-config.php",
+		"/home/wolgan/vaucherponto/.env",
+		"/home/wolgan/vaucherponto/database/seeds/DatabaseSeeder.php",
+		"/home/wolgan/vaucherponto/app/Http/Controllers/HomeController.php",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/hosts",
+		"/home/wolgan/vaucherponto/public/blog/wp-settings.php",
+		"/home/wolgan/vaucherponto/config/app.php",
+		"/home/wolgan/vaucherponto/app.dockerfile",
+		"/home/wolgan/vaucherponto/public/blog/wp-admin/setup-config.php",
+		"/etc/apt/sources.list",
+		"/etc/yum.repos.d/nginx.repo",
+		"/home/wolgan/Downloads/Contact.cshtml",
+		"/home/wolgan/vaucherponto/docker-compose.yml",
+		"/home/wolgan/vaucherponto/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/wolgan/vaucherponto/database/migrations/2018_01_17_124121_add_user_role_field.php",
+		"/home/wolgan/vaucherponto/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/wolgan/Dropbox/C#/Projetos/Priston Tale/ItemTableCreator/ItemTableCreator/ItemTableCreator/Item.cs",
+		"/home/wolgan/vaucherponto/web.dockerfile",
+		"/home/wolgan/vaucherponto/vhost.conf",
+		"/home/wolgan/vaucherponto/php",
+		"/home/wolgan/vaucherponto/FROM",
+		"/home/wolgan/Dropbox/Wolgan-2017-01/TCC2/javascript_keywords_from_html_pdf2htmlEX.js",
+		"/home/wolgan/document.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/var/www/html",
+			"print",
+			"player_command",
+			"print",
+			"(\\d)",
+			"\"",
+			"player.current_room",
+			".id",
+			"_id",
+			".id",
+			".move",
+			".save_",
+			"save_f",
+			"print",
+			",(\\d)",
+			"(\\d),",
+			"\"",
+			"self.rooms",
+			".move",
+			"current_r",
+			"print",
+			"file_path",
+			"game_start",
+			"print",
+			"print(",
+			".sockets",
+			"bytes",
+			"character_description",
+			"command[",
+			"print",
+			"print(",
+			"clear",
+			"screen",
+			"players",
+			"screen_helper",
+			"clients",
+			"server.players",
+			"print",
+			"broadc",
+			"server.clients.app",
+			"character_name",
+			"current_r",
+			"rom",
+			"iter",
+			"localhist",
+			"stream",
+			"$fb",
+			"fb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/home/wolgan/expressiminuano",
+			"\"$1\"",
+			"",
+			",\"$1\"",
+			"\"$1\",",
+			"",
+			"room"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/World.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2477,
+								2524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 833.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/Server.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7931,
+								7931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2835.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/NPC.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/ScreenHelper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3852,
+								3852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/Client.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								1000
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "server/config/characters/npcs.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/config/items/items.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server/Player.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 114.0
+	},
+	"output.git-push":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "pp_final.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"roompy",
+				"server/Room.py"
+			],
+			[
+				"npcjso",
+				"server/config/characters/npcs.json"
+			],
+			[
+				"wolr",
+				"server/World.py"
+			],
+			[
+				"screenhe",
+				"client/ScreenHelper.py"
+			],
+			[
+				"roomp",
+				"server/Room.py"
+			],
+			[
+				"worlpy",
+				"server/World.py"
+			],
+			[
+				"world",
+				"server/World.py"
+			],
+			[
+				"screnhe",
+				"client/ScreenHelper.py"
+			],
+			[
+				"ruiindex",
+				"wp-content/themes/rui/index.php"
+			],
+			[
+				"ruifooter",
+				"wp-content/themes/rui/footer.php"
+			],
+			[
+				"ruiheae",
+				"wp-content/themes/rui/header.php"
+			],
+			[
+				"functions.php",
+				"wp-includes/functions.php"
+			],
+			[
+				"ruiheader",
+				"wp-content/themes/rui/header.php"
+			],
+			[
+				"wpheader",
+				"wp-blog-header.php"
+			],
+			[
+				"ruiindex.",
+				"wp-content/themes/rui/index.php"
+			],
+			[
+				"webpa",
+				"wp-content/themes/rui/webpack.config.js"
+			],
+			[
+				"bund",
+				"wp-content/themes/rui/js/bundle.js"
+			],
+			[
+				"bundl",
+				"wp-content/themes/rui/dist/bundle.js"
+			],
+			[
+				"bundle.js",
+				"wp-content/themes/rui/dist/bundle.js"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"seed",
+				"database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"databaseseeds",
+				"database/migrations/2014_10_12_100000_create_password_resets_table.php"
+			],
+			[
+				"migrate",
+				"database/migrations/2018_01_17_124121_add_user_role_field.php"
+			],
+			[
+				"migrateuser",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/rui.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

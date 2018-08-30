@@ -1,0 +1,46 @@
+{
+	"1" :{
+		"name" : "Casa Abandonada",
+		"description": "Você esta em uma casa abandonada",
+		"items": [
+			"1","2","3"
+		],
+		"npcs": [
+			"1"
+		]
+	},
+	"2" :{
+		"name" : "Armazém de armas",
+		"description": "Armazém de armas destruído",
+		"items": [
+			"1","2","3"
+		]
+	},
+	"3" :{
+		"name" : "Parcão de Uruguaiana",
+		"description": "Este é o parcão de Uruguaiana",
+		"items": [
+			"1","2","3"
+		],
+		"npcs": [
+			"2"
+		],
+		"monsters": [
+			"1"
+		]
+	},
+	"4" :{
+		"name" : "Baixada",
+		"description": "Bem-vindo à baixada de Uruguaiana",
+		"items": [
+			"1","2","3"
+		]
+	},
+	"5": {
+		"name" : "UNIPAMPA",
+		"description": "Você está na UNIPAMPA, campus Alegrete... Cuidado com os cuscos",
+		"items": [
+			"1","2","3"
+		]
+	}
+}

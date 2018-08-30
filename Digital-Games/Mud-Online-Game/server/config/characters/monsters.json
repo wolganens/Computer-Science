@@ -1,0 +1,12 @@
+{
+	"1" : {
+		"name" : "Filhote de ET",
+		"description" : "Um alienígena recém nascido",
+		"exp": 100,
+		"drops": [
+			"1", "2", "3"
+		],
+		"damage" : 1,
+		"hp" : 50
+	}
+}

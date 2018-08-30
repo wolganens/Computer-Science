@@ -1,0 +1,12 @@
+{
+	"1" : {
+		"type" : "hunt",
+		"count" : 5,
+		"monster": "1",
+		"reward" : {
+			"gold" : 200,
+			"items": ["1", "2"]
+		},
+		"description": "Mate 5 filhotes de ET para ganhar uma recompensa"
+	}
+}
