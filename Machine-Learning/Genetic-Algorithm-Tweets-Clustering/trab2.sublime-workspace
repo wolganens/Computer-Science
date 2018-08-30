@@ -1,0 +1,946 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max_iterations"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"besfro",
+				"best_from_new"
+			],
+			[
+				"memsi",
+				"membership_matrix"
+			],
+			[
+				"ft",
+				"fitness"
+			],
+			[
+				"newmem",
+				"new_membership_matrix_a"
+			],
+			[
+				"vtw",
+				"v_tweets"
+			],
+			[
+				"newm",
+				"new_membership_matrix_b"
+			],
+			[
+				"be",
+				"best_individual"
+			],
+			[
+				"bes",
+				"best_individual"
+			],
+			[
+				"best",
+				"best_individual"
+			],
+			[
+				"sort",
+				"sort_population_by_fitness"
+			],
+			[
+				"member",
+				"membership_matrix"
+			],
+			[
+				"pare",
+				"parent_b"
+			],
+			[
+				"paren",
+				"parent_a"
+			],
+			[
+				"a",
+				"a_words"
+			],
+			[
+				"b",
+				"b_words"
+			],
+			[
+				"top",
+				"top_b"
+			],
+			[
+				"ma",
+				"membership_matrix"
+			],
+			[
+				"nw",
+				"n_tweets"
+			],
+			[
+				"memb",
+				"membership_matrix"
+			],
+			[
+				"itera",
+				"iterations"
+			],
+			[
+				"sa",
+				"satisfaction"
+			],
+			[
+				"popu",
+				"population"
+			],
+			[
+				"med",
+				"medoids"
+			],
+			[
+				"medo",
+				"medoid_objects"
+			],
+			[
+				"medoid",
+				"medoids"
+			],
+			[
+				"parse",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"qu",
+				"textoQuadro"
+			],
+			[
+				"esc",
+				"escondeMenu"
+			],
+			[
+				"pausar",
+				"pausarMusica"
+			],
+			[
+				"mostra",
+				"mostraJogandoElementos"
+			],
+			[
+				"tuview",
+				"tutorialView"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"Tut",
+				"TutorialView"
+			],
+			[
+				"tutowi",
+				"TutorialView"
+			],
+			[
+				"tvuw",
+				"TutorialView"
+			],
+			[
+				"tutow",
+				"TutorialView"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gistats",
+				"Git: Status"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"function",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sasbe",
+				"SassBeautify"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wolganens/Wolgan/Trab2-AM"
+	],
+	"file_history":
+	[
+		"/home/wolganens/Wolgan/Trab2-AM/Problem.py",
+		"/home/wolganens/Documents/10cluster/0.txt",
+		"/home/wolganens/Documents/10cluster/1.txt",
+		"/home/wolganens/Documents/10cluster/2.txt",
+		"/home/wolganens/Documents/10cluster/3.txt",
+		"/home/wolganens/Documents/10cluster/4.txt",
+		"/home/wolganens/Documents/10cluster/5.txt",
+		"/home/wolganens/Documents/10cluster/6.txt",
+		"/home/wolganens/Documents/10cluster/7.txt",
+		"/home/wolganens/Documents/10cluster/8.txt",
+		"/home/wolganens/Documents/10cluster/9.txt",
+		"/home/wolganens/Documents/25cluster/24.txt",
+		"/home/wolganens/Documents/25cluster/23.txt",
+		"/home/wolganens/Documents/25cluster/22.txt",
+		"/home/wolganens/Documents/25cluster/21.txt",
+		"/home/wolganens/Documents/25cluster/20.txt",
+		"/home/wolganens/Documents/25cluster/19.txt",
+		"/home/wolganens/Documents/25cluster/17.txt",
+		"/home/wolganens/Documents/25cluster/16.txt",
+		"/home/wolganens/Documents/25cluster/15.txt",
+		"/home/wolganens/Documents/25cluster/14.txt",
+		"/home/wolganens/Documents/25cluster/13.txt",
+		"/home/wolganens/Documents/25cluster/12.txt",
+		"/home/wolganens/Documents/25cluster/11.txt",
+		"/home/wolganens/Documents/25cluster/10.txt",
+		"/home/wolganens/Documents/25cluster/9.txt",
+		"/home/wolganens/Documents/25cluster/8.txt",
+		"/home/wolganens/Documents/25cluster/7.txt",
+		"/home/wolganens/Documents/25cluster/6.txt",
+		"/home/wolganens/Documents/25cluster/5.txt",
+		"/home/wolganens/Documents/25cluster/4.txt",
+		"/home/wolganens/Documents/25cluster/0.txt",
+		"/home/wolganens/Documents/25cluster/1.txt",
+		"/home/wolganens/Documents/25cluster/3.txt",
+		"/home/wolganens/Documents/25cluster/2.txt",
+		"/home/wolganens/Wolgan/Trab2-AM/main.py",
+		"/home/wolganens/Wolgan/K-Medoids/Kmedoids.py",
+		"/home/wolganens/teste.py",
+		"/home/wolganens/Wolgan/Trab2-AM/.gitignore",
+		"/home/wolganens/Wolgan/Trab2-AM/util.py",
+		"/home/wolganens/Wolgan/Trab2-AM/2.txt",
+		"/home/wolganens/Wolgan/Trab2-AM/1.txt",
+		"/home/wolganens/Wolgan/Trab2-AM/0.txt",
+		"/home/wolganens/Wolgan/Trab2-AM/Individual.py",
+		"/home/wolganens/Wolgan/Trab2-AM/3.txt",
+		"/home/wolganens/Wolgan/Trab2-AM/teste.json",
+		"/home/wolganens/Wolgan/clusters25/0.txt",
+		"/home/wolganens/Wolgan/clusters25/5.txt",
+		"/home/wolganens/Wolgan/clusters25/1.txt",
+		"/home/wolganens/Wolgan/clusters25/6.txt",
+		"/home/wolganens/Wolgan/clusters25/9.txt",
+		"/home/wolganens/Wolgan/clusters25/4.txt",
+		"/home/wolganens/Wolgan/clusters25/8.txt",
+		"/home/wolganens/Wolgan/clusters25/3.txt",
+		"/home/wolganens/Wolgan/clusters25/7.txt",
+		"/home/wolganens/Wolgan/clusters25/2.txt",
+		"/home/wolganens/Wolgan/clusters25/12.txt",
+		"/home/wolganens/Wolgan/clusters25/14.txt",
+		"/home/wolganens/Wolgan/clusters25/10.txt",
+		"/home/wolganens/Wolgan/clusters25/11.txt",
+		"/home/wolganens/Wolgan/clusters25/16.txt",
+		"/home/wolganens/Wolgan/clusters25/15.txt",
+		"/home/wolganens/Wolgan/clusters25/17.txt",
+		"/home/wolganens/Wolgan/clusters25/19.txt",
+		"/home/wolganens/Wolgan/clusters25/18.txt",
+		"/home/wolganens/Wolgan/clusters25/21.txt",
+		"/home/wolganens/Wolgan/clusters25/22.txt",
+		"/home/wolganens/Wolgan/clusters25/23.txt",
+		"/home/wolganens/Wolgan/clusters25/20.txt",
+		"/home/wolganens/Wolgan/clusters25/24.txt",
+		"/home/wolganens/websites/sbgames/www.sbgames.org/sbgames2017/papers/teste/170942.cermtxt",
+		"/home/wolganens/Documents/teste.py",
+		"/home/wolganens/Wolgan/Trab2-AM/merda.json",
+		"/home/wolganens/Wolgan/Trab2-AM/Tweets.json",
+		"/home/wolganens/Wolgan/Trab2-AM/Tweets_full.json",
+		"/home/wolganens/.cache/.fr-XBrRK5/Health-Tweets/bbchealth.txt",
+		"/home/wolganens/.cache/.fr-vVL68C/Tweets.json",
+		"/home/wolganens/Wolgan/K-Medoids/main.py",
+		"/home/wolganens/Wolgan/Trab1-IA-2018-01/Problem.py",
+		"/home/wolganens/Wolgan/Trab2-AM/Kmedoids.py",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/jogo.html",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/model/Fabrica.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/eventos/Jogojavascript.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/model/Configuracoes.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/view/Jogo.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/controller/Controlador.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/model/Partida.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/sass/jogo.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/model/Tutorial.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/sass/tutorial.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/sass/_text.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/view/Tutorial.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/tutorial.html",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/sass/_global.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/sass/_bottom-nav.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/jogo.css",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/.fuse_hidden0000042300000001",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/jogo.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/_global.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/_text.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/index.html",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/controller/Tutorial.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/_colors.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/_utils.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/tutorial.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/jogo.css.map",
+		"/home/wolganens/unipampa-divers-o-com-n-meros/public_html/js/eventos/Jogojavascript.js",
+		"/home/wolganens/unipampa-divers-o-com-n-meros/public_html/tutorial.html",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/tutorial.css",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/_bottom-nav.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/index.scss",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/js/view/Index.class.js",
+		"/home/wolganens/Wolgan/divcomnumeros/public_html/css/meuCss.css",
+		"/etc/apache2/sites-available/teste.conf",
+		"/home/wolganens/Wolgan/easytools/resources/assets/js/presentation/transactions/Table.jsx",
+		"/home/wolganens/Wolgan/easytools/app/Http/Controllers/TransactionsController.php",
+		"/home/wolganens/Wolgan/easytools/resources/assets/js/presentation/transactions/SendTrackCode.jsx",
+		"/home/wolganens/Wolgan/Trab1-IA-2018-01/main.py",
+		"/home/wolganens/.profile",
+		"/home/wolganens/Wolgan/Trab1-IA-2018-01/Input.py",
+		"/home/wolganens/Wolgan/Trab1-IA-2018-01/instancias/vrpnc3.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 181.0,
+		"where_history":
+		[
+			"/home/wolganens/Wolgan/divcomnumeros/public_html/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"lice confirm ano",
+			"new aerial image",
+			"udes police hun",
+			"surveillance",
+			"riction area ex",
+			"porary flight ",
+			"cellphone service shut boston",
+			"google person fin",
+			"inish line contin",
+			"rts boston marathon ru",
+			"there reports boston m",
+			" human spi",
+			"uman spirit #mara",
+			"ombing suspe",
+			"ners crossed finish li",
+			"google person fin",
+			"police",
+			"bama regi",
+			"arged",
+			"custod",
+			"saudi national ",
+			" the faa ",
+			"at least 3 ",
+			"google perso",
+			"self.fit",
+			"membersh",
+			" = Ind",
+			" = ind",
+			"print",
+			"print(",
+			"self.best",
+			"Individual(",
+			"self.best_individual",
+			"print",
+			"copy",
+			"deepco",
+			"print(",
+			"[0]",
+			"^(.*})$",
+			",",
+			"print",
+			"print(",
+			"print",
+			"randint",
+			"^(\\{.*\\})$",
+			"dificuldade",
+			"dificul",
+			"incluiDificuldade",
+			"dific",
+			"Menu",
+			"pausar",
+			"jogand",
+			"gerarNovaConta",
+			"audioRespostaErrada",
+			"verificar",
+			"mostraListaTopicos",
+			"'botaoTopicos'",
+			"botaoTopicos",
+			"mostraListaTopicos",
+			"setTutorial",
+			"mostraListaTopicos",
+			"mostraListaTopicos\n",
+			"botaoTopicos",
+			".scss",
+			"font-size: 3em;",
+			"$medium",
+			"scss",
+			"3em",
+			"h1",
+			"tocaSom",
+			"inferior",
+			"pontuacaoFinal",
+			"verificarResultado",
+			"mostraJogandoElementos",
+			"escolherMenu",
+			"Pausar",
+			"escolherMen",
+			"Menu",
+			".style.display = \"inline\";",
+			".style.display = \"block\";",
+			".style.display = 'none';",
+			"mostraEscolha",
+			"incluiDificuldade",
+			"incluiDificuldade('2')",
+			".style.display = 'block';",
+			".style.display = \"none\";",
+			"bordaDificuldade",
+			"bordaMenu",
+			"configu",
+			"dificuldadeEsc",
+			"audio1",
+			"musica",
+			"pausar",
+			"pausa",
+			"pontuacao",
+			"menu",
+			"document.getElementById('menu').classList.add('hidden');",
+			"mostraMenu",
+			"JOGO <br/>PAUSADO!        ",
+			"botaoT",
+			"esconde",
+			"ocultarE",
+			"resultado",
+			".view",
+			"state",
+			"(this)",
+			"botaoSomAtivo",
+			"tempo",
+			"Pausar",
+			"Menu",
+			".css",
+			"jogarTu",
+			"botaoJogarTutorial",
+			"jogartu",
+			"jogar",
+			"jogartuto",
+			"mostraListaTopicos",
+			"botaoTo",
+			"play(",
+			"play",
+			"^.*h2.*$",
+			"mostraListaTopicos",
+			"botaoProxima",
+			"tutorial1",
+			"class=\"hidden\"",
+			"musicaLigada",
+			"<(.*) >",
+			"(^.* )>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$1,",
+			",\\n",
+			"$1,",
+			".classList.remove('hidden');",
+			".classList.add('hidden');",
+			".classList.remove('hidden');",
+			".classList.add('hidden');",
+			"dificuldade",
+			"",
+			"<$1>",
+			"$>",
+			"$1$2",
+			"",
+			"$1$2",
+			"$1;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 63.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 120.0
+	},
+	"output.git-pull":
+	{
+		"height": 120.0
+	},
+	"output.git-push":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "trab2.sublime-project",
+	"replace":
+	{
+		"height": 122.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config",
+				"js/model/Configuracoes.class.js"
+			],
+			[
+				"jogohtml",
+				"jogo.html"
+			],
+			[
+				"jogoja",
+				"js/eventos/Jogojavascript.js"
+			],
+			[
+				"viewjog",
+				"js/view/Jogo.class.js"
+			],
+			[
+				"conf",
+				"js/model/Configuracoes.class.js"
+			],
+			[
+				"jogo",
+				"jogo.html"
+			],
+			[
+				"modelpar",
+				"js/model/Partida.class.js"
+			],
+			[
+				"jogoscss",
+				"css/sass/jogo.scss"
+			],
+			[
+				"jogojav",
+				"js/eventos/Jogojavascript.js"
+			],
+			[
+				"controj",
+				"js/controller/Controlador.class.js"
+			],
+			[
+				"tutoriscss",
+				"css/sass/tutorial.scss"
+			],
+			[
+				"modeltuto",
+				"js/model/Tutorial.class.js"
+			],
+			[
+				"viewtuto",
+				"js/view/Tutorial.class.js"
+			],
+			[
+				"viewtut",
+				"js/view/Tutorial.class.js"
+			],
+			[
+				"text",
+				"css/sass/_text.scss"
+			],
+			[
+				"tutorihtml",
+				"tutorial.html"
+			],
+			[
+				"globalscs",
+				"css/sass/_global.scss"
+			],
+			[
+				"global",
+				"css/sass/_global.scss"
+			],
+			[
+				"jogo.scss",
+				"css/sass/jogo.scss"
+			],
+			[
+				"tutoscss",
+				"css/sass/tutorial.scss"
+			],
+			[
+				"tutorscs",
+				"css/sass/tutorial.scss"
+			],
+			[
+				"glob",
+				"css/sass/_global.scss"
+			],
+			[
+				"tutori",
+				"css/sass/tutorial.scss"
+			],
+			[
+				"jogoscs",
+				"css/sass/jogo.scss"
+			],
+			[
+				"globa",
+				"css/sass/_global.scss"
+			],
+			[
+				"tutoscs",
+				"css/sass/tutorial.scss"
+			],
+			[
+				"tutoriscs",
+				"css/sass/tutorial.scss"
+			],
+			[
+				"viewtu",
+				"js/view/Tutorial.class.js"
+			],
+			[
+				"tut",
+				"tutorial.html"
+			],
+			[
+				"tutorialjs",
+				"js/view/Tutorial.class.js"
+			],
+			[
+				"tutorialhtml",
+				"tutorial.html"
+			],
+			[
+				"bottomnav",
+				"css/sass/_bottom-nav.scss"
+			],
+			[
+				"modelpart",
+				"js/model/Partida.class.js"
+			],
+			[
+				"modelaprt",
+				"js/model/Partida.class.js"
+			],
+			[
+				"controla",
+				"js/controller/Controlador.class.js"
+			],
+			[
+				"viewjo",
+				"js/view/Jogo.class.js"
+			],
+			[
+				"joghtml",
+				"jogo.html"
+			],
+			[
+				"indexhtml",
+				"index.html"
+			],
+			[
+				"utils",
+				"css/_utils.scss"
+			],
+			[
+				"uti",
+				"css/_utils.scss"
+			],
+			[
+				"colors",
+				"css/_colors.scss"
+			],
+			[
+				"vitu",
+				"js/view/Tutorial.class.js"
+			],
+			[
+				"jogoas",
+				"js/eventos/Jogojavascript.js"
+			],
+			[
+				"jogojava",
+				"js/eventos/Jogojavascript.js"
+			],
+			[
+				"jsviewt",
+				"js/view/Tutorial.class.js"
+			],
+			[
+				"tutoricss",
+				"css/tutorial.css"
+			],
+			[
+				"globascs",
+				"css/_global.scss"
+			],
+			[
+				"tutoria.scss",
+				"css/tutorial.scss"
+			],
+			[
+				"tutorialcss",
+				"css/tutorial.css"
+			],
+			[
+				"texs",
+				"css/_text.scss"
+			],
+			[
+				"indext",
+				"index.html"
+			],
+			[
+				"viewtutro",
+				"js/view/Tutorial.class.js"
+			],
+			[
+				"viewsass",
+				"js/view/Index.class.js"
+			],
+			[
+				"transaciotable",
+				"resources/assets/js/presentation/transactions/Table.jsx"
+			],
+			[
+				"sendtra",
+				"resources/assets/js/presentation/transactions/SendTrackCode.jsx"
+			],
+			[
+				"sendtrac",
+				"resources/assets/js/presentation/transactions/SendTrackCode.jsx"
+			],
+			[
+				"transacontro",
+				"app/Http/Controllers/TransactionsController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Wolgan/divcomnumerosreact.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
