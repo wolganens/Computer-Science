@@ -1,0 +1,7 @@
+Nome: Wolgan Ens Quepfert
+Matrícula: 121151535
+
+Algoritmo minimax para o jogo tic-tac-toe de tamanho variado. O programa recebe como entrada as configurações do tabuleiro, o jogador da vez e o número de simbolos em sequencia necessários para configurar uma vitória. Após receber os dados de entrada, o problema é instanciado e o algoritmo minimax começa a ser executado avaliando uma determinada profundidade máxima ou até atingir um estado terminal. De acordo com a heurística que leva em conta vitória, derrota, empate ou jogador com maior sequencia de simbolos, os estados são avaliados a fim de determinar a próxima jogada.
+
+Para executar o programa, basta executar o comando:
+python main.py <n_linhas> <n_colunas> <jogador (1 ou 2)> <n_simbolos> <config_do_tabuleiro>
