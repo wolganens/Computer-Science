@@ -1,0 +1,110 @@
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.101..0.103 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.787 ms
+ Execution time: 0.137 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.006..0.007 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.052 ms
+ Execution time: 0.017 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.047 ms
+ Execution time: 0.017 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.047 ms
+ Execution time: 0.016 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.047 ms
+ Execution time: 0.017 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.047 ms
+ Execution time: 0.016 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.046 ms
+ Execution time: 0.017 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.046 ms
+ Execution time: 0.016 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.046 ms
+ Execution time: 0.016 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                            QUERY PLAN                                                             
+-----------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using secondary_index_is_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.005..0.006 rows=2 loops=1)
+   Index Cond: ("is" = 500)
+   Heap Fetches: 2
+ Planning time: 0.046 ms
+ Execution time: 0.016 ms
+(5 rows)
+
+Query buffer reset (cleared).

@@ -1,0 +1,51 @@
+http://webaim.org/resources/contrastchecker/
+WebAIM:
+Permite inserir cor de fundo e primeiro plano, retorna a relação de contraste e o  resultado
+com relação às diferentes especificações da WCAG para os diferentes tamanhos de fonte.
+
+http://wave.webaim.org/
+WAVE
+
+Relata os problemas de acessibilidade diretamente na página.
+
+http://colorsafe.co/
+Ao inserir uma cor de fundo, o estilo da fonte e o padrão WCAG(AA, AAA) a ferramenta gera
+uma paleta de cores de texto que podem ser escolhidas para satisfazer a relação de contraste.
+
+https://snook.ca/technical/colour_contrast/colour.html
+Colour Contrast Check
+
+Permite especificar cor de fundo e primeiro plano e determina se há "contraste suficiente" quando
+visualizado por pessoas com déficits de cor ou quando visualizado em telas em preto e branco.
+
+http://colororacle.org/
+Color Oracle
+
+Simulador de daltonismo para windows, mac e linux. Mostra em tempo real o que as pessoas
+com deficiências de visão de cores irão ver.
+
+https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl
+No Coffee
+
+Extensão gratuita para Google Chrome, utilizada para simular uma ampla gama de deficiências visuais,
+incluindo cegeuira, baixa acuidade, baixa sensibilidade ao contrast,etc.
+
+https://github.com/getflourish/Sketch-Color-Contrast-Analyser
+Color Contrast Analyser for Sketch
+
+Mesmo esquema de submeter as cores e a ferramenta retorna a relação de contraste.
+
+https://www.paciellogroup.com/resources/contrastanalyser/
+Colour Contrast Analyser
+
+http://www.etre.com/tools/colourblindsimulator/
+Colour Blindness Simulator
+
+Permite submeter uma imagem do computador, escolher entre 3 opções de daltonismo e realizar
+uma simulação de como seria a visualização da imagem.
+
+Ferramentas de Contraste:
+
+http://www.webaxe.org/color-contrast-tools/
+
+https://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast

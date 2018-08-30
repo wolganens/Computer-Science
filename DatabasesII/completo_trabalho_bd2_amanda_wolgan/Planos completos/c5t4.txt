@@ -1,0 +1,110 @@
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.113..9.068 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.764 ms
+ Execution time: 9.956 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.011..8.837 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.073 ms
+ Execution time: 9.687 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.012..8.533 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.069 ms
+ Execution time: 9.360 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.012..8.684 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.068 ms
+ Execution time: 9.566 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.012..8.559 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.073 ms
+ Execution time: 9.430 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.011..8.401 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.069 ms
+ Execution time: 9.228 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.012..8.336 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.067 ms
+ Execution time: 9.198 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.012..8.453 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.067 ms
+ Execution time: 9.291 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.014..8.242 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.100 ms
+ Execution time: 9.085 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                                 QUERY PLAN                                                                 
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t4 on table4  (cost=0.29..1759.93 rows=50265 width=4) (actual time=0.011..8.281 rows=50000 loops=1)
+   Index Cond: (ip > 50000)
+   Heap Fetches: 50000
+ Planning time: 0.066 ms
+ Execution time: 9.124 ms
+(5 rows)
+
+Query buffer reset (cleared).

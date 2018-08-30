@@ -1,0 +1,110 @@
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.011..1.295 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.891 ms
+ Execution time: 1.436 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.007..1.130 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.054 ms
+ Execution time: 1.233 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.006..1.130 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.048 ms
+ Execution time: 1.220 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.006..1.140 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.047 ms
+ Execution time: 1.232 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.006..1.220 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.050 ms
+ Execution time: 1.326 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.007..1.133 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.068 ms
+ Execution time: 1.236 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.006..1.096 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.045 ms
+ Execution time: 1.187 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.005..1.120 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.045 ms
+ Execution time: 1.215 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.005..1.081 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.045 ms
+ Execution time: 1.186 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                               QUERY PLAN                                               
+--------------------------------------------------------------------------------------------------------
+ Seq Scan on table3  (cost=0.00..189.00 rows=4982 width=4) (actual time=0.005..1.100 rows=4978 loops=1)
+   Filter: ("is" > 5000)
+   Rows Removed by Filter: 5022
+ Planning time: 0.046 ms
+ Execution time: 1.189 ms
+(5 rows)
+
+Query buffer reset (cleared).

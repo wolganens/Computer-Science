@@ -1,0 +1,110 @@
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.010..17.292 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.798 ms
+ Execution time: 18.687 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.008..16.061 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.081 ms
+ Execution time: 17.339 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.008..16.010 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.078 ms
+ Execution time: 17.307 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.008..15.944 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.077 ms
+ Execution time: 17.206 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.007..15.887 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.075 ms
+ Execution time: 17.141 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.006..15.976 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.072 ms
+ Execution time: 17.229 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.007..15.958 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.072 ms
+ Execution time: 17.239 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.007..15.992 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.079 ms
+ Execution time: 17.222 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.007..15.922 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.073 ms
+ Execution time: 17.246 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                 QUERY PLAN                                                 
+------------------------------------------------------------------------------------------------------------
+ Seq Scan on table4  (cost=0.00..2137.00 rows=74968 width=8) (actual time=0.007..17.033 rows=74999 loops=1)
+   Filter: ((ip < 50000) OR (ni < 50000))
+   Rows Removed by Filter: 25001
+ Planning time: 0.073 ms
+ Execution time: 18.391 ms
+(5 rows)
+
+Query buffer reset (cleared).

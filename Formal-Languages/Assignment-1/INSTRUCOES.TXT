@@ -1,0 +1,19 @@
+Para utilizar o programa, basta executar o script com o python da seguinte forma:
+
+python trab1.py teste.txt
+
+Onde teste.txt é um arquivo contendo a definição formal do automato, é IMPORTANTE que ele seja definido
+neste formato:
+
+alfabeto, estados, regras de transição, estado inicial e conjunto de estados finais:
+({a,b},{A,B,C,D,E,F,G,H},{(A,a,G),(A,b,B),(B,a,F),(B,b,E),(C,a,C),(C,b,G),(D,a,A),(D,b,H),(E,a,E),(E,b,A),(F,a,B),(F,b,C),(G,a,G),(G,b,F),(D,a,A),(H,a,H),(H,b,D)},A,{A,G})
+
+Para exportar o automato no arquivo pdf, a seguinte dependencia deve ser instalada:
+
+Digraph:
+$ pip install graphviz
+$ sudo apt-get install graphviz
+
+
+
+

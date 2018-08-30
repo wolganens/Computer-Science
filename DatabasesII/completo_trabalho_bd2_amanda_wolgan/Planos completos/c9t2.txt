@@ -1,0 +1,110 @@
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.011..0.171 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.783 ms
+ Execution time: 0.219 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.006..0.151 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.062 ms
+ Execution time: 0.177 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.005..0.152 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.057 ms
+ Execution time: 0.173 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.006..0.147 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.057 ms
+ Execution time: 0.173 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.005..0.147 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.057 ms
+ Execution time: 0.171 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.005..0.147 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.056 ms
+ Execution time: 0.171 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.005..0.146 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.055 ms
+ Execution time: 0.170 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.005..0.148 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.055 ms
+ Execution time: 0.171 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.005..0.150 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.055 ms
+ Execution time: 0.170 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                             QUERY PLAN                                              
+-----------------------------------------------------------------------------------------------------
+ Seq Scan on table2  (cost=0.00..22.00 rows=745 width=8) (actual time=0.005..0.147 rows=738 loops=1)
+   Filter: ((ip < 500) OR ("is" < 500))
+   Rows Removed by Filter: 262
+ Planning time: 0.056 ms
+ Execution time: 0.171 ms
+(5 rows)
+
+Query buffer reset (cleared).

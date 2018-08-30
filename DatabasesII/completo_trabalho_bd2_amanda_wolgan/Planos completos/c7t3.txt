@@ -1,0 +1,160 @@
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.041..0.045 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.034..0.034 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.020..0.020 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.012..0.012 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.818 ms
+ Execution time: 0.105 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.019..0.020 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.015..0.015 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.008..0.008 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.007..0.007 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.084 ms
+ Execution time: 0.043 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.013..0.014 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.010..0.010 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.006..0.006 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.064 ms
+ Execution time: 0.032 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.012..0.012 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.009..0.009 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.005..0.005 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.059 ms
+ Execution time: 0.029 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.011..0.012 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.008..0.008 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.003..0.003 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.059 ms
+ Execution time: 0.029 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.010..0.011 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.008..0.008 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.003..0.003 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.057 ms
+ Execution time: 0.028 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.010..0.011 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.008..0.008 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.003..0.003 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.057 ms
+ Execution time: 0.028 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.010..0.011 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.008..0.008 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.003..0.003 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.056 ms
+ Execution time: 0.028 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.010..0.011 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.008..0.008 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.003..0.003 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.057 ms
+ Execution time: 0.028 ms
+(10 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                             QUERY PLAN                                                             
+------------------------------------------------------------------------------------------------------------------------------------
+ Bitmap Heap Scan on table3  (cost=8.59..18.69 rows=3 width=8) (actual time=0.010..0.011 rows=2 loops=1)
+   Recheck Cond: ((ip = 5000) OR ("is" = 5000))
+   Heap Blocks: exact=2
+   ->  BitmapOr  (cost=8.59..8.59 rows=3 width=0) (actual time=0.008..0.008 rows=0 loops=1)
+         ->  Bitmap Index Scan on primary_index_ip_t3  (cost=0.00..4.29 rows=1 width=0) (actual time=0.004..0.004 rows=1 loops=1)
+               Index Cond: (ip = 5000)
+         ->  Bitmap Index Scan on secondary_index_is_t3  (cost=0.00..4.30 rows=2 width=0) (actual time=0.003..0.003 rows=1 loops=1)
+               Index Cond: ("is" = 5000)
+ Planning time: 0.056 ms
+ Execution time: 0.028 ms
+(10 rows)
+
+Query buffer reset (cleared).

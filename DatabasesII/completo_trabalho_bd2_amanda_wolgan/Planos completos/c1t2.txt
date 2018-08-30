@@ -1,0 +1,110 @@
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.490..0.493 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 3.581 ms
+ Execution time: 0.667 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.024..0.025 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.188 ms
+ Execution time: 0.070 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.021..0.022 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.165 ms
+ Execution time: 0.066 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.018..0.020 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.188 ms
+ Execution time: 0.056 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.019..0.020 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.175 ms
+ Execution time: 0.060 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.019..0.020 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.180 ms
+ Execution time: 0.057 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.023..0.025 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.214 ms
+ Execution time: 0.073 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.024..0.025 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.216 ms
+ Execution time: 0.075 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.023..0.024 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.164 ms
+ Execution time: 0.060 ms
+(5 rows)
+
+Query buffer reset (cleared).
+DISCARD ALL
+                                                           QUERY PLAN                                                            
+---------------------------------------------------------------------------------------------------------------------------------
+ Index Only Scan using primary_index_ip_t2 on table2  (cost=0.28..8.29 rows=1 width=4) (actual time=0.019..0.020 rows=1 loops=1)
+   Index Cond: (ip = 500)
+   Heap Fetches: 1
+ Planning time: 0.165 ms
+ Execution time: 0.057 ms
+(5 rows)
+
+Query buffer reset (cleared).

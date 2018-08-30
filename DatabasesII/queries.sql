@@ -1,0 +1,12 @@
+SELECT ip		FROM table1 WHERE ip 	=  50;
+SELECT "is"		FROM table1 WHERE "is" 	=  50;
+SELECT ip		FROM table1 WHERE ip 	<  50;
+SELECT "is"		FROM table1 WHERE "is" 	<  50;
+SELECT ip		FROM table1 WHERE ip 	>  50;
+SELECT "is"		FROM table1 WHERE "is" 	>  50;
+SELECT ip, "is"	FROM table1 WHERE ip 	=  100 OR "is" =  50;
+SELECT ip, ni	FROM table1 WHERE ip 	=  100 OR ni =  50;
+SELECT ip, "is"	FROM table1 WHERE ip 	<  100 OR "is" <  50;
+SELECT ip, ni	FROM table1 WHERE ip 	<  100 OR ni <  50;
+SELECT ip, "is"	FROM table1 WHERE ip 	>  100 OR "is" >  50;
+SELECT ip, ni	FROM table1 WHERE ip 	>  100 OR ni >  50;
