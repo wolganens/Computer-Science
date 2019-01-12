@@ -32,8 +32,8 @@ individual * new_population(individual *old_population, int n_documents, int pop
 		printf("Falha ao alocar nova população\n");
 		exit(-1);
 	}
-	omp_set_num_threads(8);
-	#pragma omp parallel for	
+	#pragma acc kernels
+	#pragma acc loop independent
 	for (i = 0 ; i < (int) pop_size/2 ; i++) {
 		individual parent_a = selection(old_population, 5, n_documents, pop_size);
 		individual parent_b = selection(old_population, 5, n_documents, pop_size);
@@ -44,7 +44,6 @@ individual * new_population(individual *old_population, int n_documents, int pop
 		population[i] = sons[0];
 		population[i + (int) pop_size/2] = sons[1];		
 	}	
-	#pragma omp barrier
 	return population;
 }
 individual selection(individual *old_population, int sample_size, int n_documents, int pop_size) {
